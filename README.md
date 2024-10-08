@@ -1,11 +1,11 @@
-Hello, My name is Alexander Nunley! <b>(You can call me Alex)</b>
+Hi 👋 My name is Alexander Nunley (Alex)
+========================================
 
+IT Student at University of North Alabama
+-----------------------------------------
 
-IT student at the University of North Alabama
+I am a senior at The University of North Alabama, I have learned Python, HTML, JavaScript, and CSS in my course work, I am learning Java and MYSQL.
 
-
-
-<!---
-anunley2025/anunley2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*   🌍  I'm based in the United States
+*   ✉️  You can contact me at [alex\_nunley@icloud.com](mailto:alex_nunley@icloud.com)
+*   🧠  I'm learning Java, MYSQL
