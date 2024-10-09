@@ -1,7 +1,7 @@
 Hi 👋 My name is Alexander Nunley (Alex)
 ========================================
 
-IT Student @ University of North Albama
+IT Student @ University of North Alabama
 ---------------------------------------
 
 Hi, I am Alex Nunley! I am an IT Student at the University of North Alabama! I am currently a senior, with plans to graduate on Fall 2025! My major is Information Technology with a concentration of Cybersecurity My connection with technology really begin when I was nonverbal and the only way I got to communicate was with technology. I would type something into google to tell whoever I was talking to whatever I want. When I played Roblox in 2012, I was so interested in developing video games, I tried my best to make a game in Roblox, trying to learn Lua. Maybe it is something I could revisit one day, with the knowledge of Python and revisit learning Lua. I focused on cybersecurity because I remember destroying the family computer with viruses growing up and I want to use the knowledge I learned since then and help protect others from such disaster.
