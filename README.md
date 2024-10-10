@@ -26,7 +26,6 @@ I focused on cybersecurity because I remember destroying the family computer wit
 
 * 🧠 Java
 * 🧠 MySQL
-* 🧠 HTML
 * 🧠 CSS
 * 🧠 JavaScript
 
