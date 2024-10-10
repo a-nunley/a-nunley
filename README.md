@@ -10,6 +10,9 @@ My connection with technology really begin when I was nonverbal and the only way
 
 I focused on cybersecurity because I remember destroying the family computer with viruses growing up and I want to use the knowledge I learned since then and help protect others from such disaster.
 
+
+###Facts about me
+
 * 🌍  I'm based in The United States of America
 * ✉️  You can contact me at [alex\_nunley@icloud.com](mailto:alex_nunley@icloud.com)
 * 🤝  I'm open to collaborating on Python projects, I would love to learn even more!
@@ -28,7 +31,6 @@ I focused on cybersecurity because I remember destroying the family computer wit
 * 🧠 MySQL
 * 🧠 CSS
 * 🧠 JavaScript
-
 
 ### Socials
 
