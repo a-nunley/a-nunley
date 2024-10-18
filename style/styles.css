@@ -1,0 +1,98 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+footer {
+    position:static;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ddd;
+}
+
+
+.container {
+    margin-top: 20px;
+}
+
+#portrait {
+    border-radius: 50%;  
+    margin-bottom: 20px;
+}
+
+#welcome {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px red;
+
+}
+
+
+.profile-info {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.profile-info p {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.profile-info p:first-child {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+
+#cooltypingthing {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+#cooltypingthing img {
+    display: inline-block;
+}
+
+
+.link-image {
+    max-width: 50px; 
+    height: auto;
+}
+
+
+
+#projecticons {
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
