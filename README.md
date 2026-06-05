@@ -13,7 +13,7 @@ I focused on cybersecurity because I remember destroying the family computer wit
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [alex\_nunley@icloud.com](mailto:alex_nunley@icloud.com)
 * 🧠  I'm currently learning PHP
-* 👥  I'm looking to collaborate on I'm open to collaborating on Python projects, and I would love to learn even more!
+* 👥  I'm open to collaborating on Python projects, and I would love to learn even more!
 * 💬  I love to workout, play video games, and hang out with friends
 
 <p align="left">
