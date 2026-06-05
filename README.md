@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alexander Nunley (Alex)
 ================================================================================================================================================
 
-IT Alumni @ University of North Alabam
+IT Alumni @ University of North Alabama
 --------------------------------------
 
 Hi, I am Alex Nunley! I am an Information Technology Graduate at the University of North Alabama! I graduated in May 2026. My major is Information Technology with a concentration in Cybersecurity!
